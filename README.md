@@ -13,6 +13,7 @@
 1. Head over to the control section in your project on the Digital Ocean Website and click on **Create**  .
 2. Select **Kubernetes** from the drop-down(as we wish to create a Kubernetes Cluster) .
  <img width="1233" alt="Screenshot 2021-12-31 at 12 03 27 AM" src="https://user-images.githubusercontent.com/73078636/147784169-fae59e4e-9169-4cfd-878d-155d659d5896.png">
+ 
 4. Fill in the region where you wish to create the cluster .
 5. Select the number of nodes you wish to create and other details .
 6. Give a name to your cluster and click on Create .
